@@ -58,6 +58,6 @@
 'atom-workspace atom-text-editor:not([mini])':
   'ctrl-h': 'editor:join-lines'
 '.platform-win32, .platform-linux':
-  'shift-f': 'find-and-replace:show'
+  'ctrl-shift-f': 'find-and-replace:show'
 # '.advanced-open-file atom-text-editor':
 #  'ctrl-m': 'advanced-open-file:move-cursor-bottom'
